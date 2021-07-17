@@ -1,7 +1,5 @@
 # Build a Weather Station with Elixir and Nerves
 
-## Introduction
-
 This repository contains the companion code for the PragmaticBookshelf book "Build a Weather Station with Elixir and
 Nerves"
 
